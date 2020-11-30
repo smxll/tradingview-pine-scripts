@@ -1,5 +1,5 @@
-//@version=3
-// Created by Alexsmokeweed
+//@version=2
+//Created by Alexsmokeweed
 
 study(title = "Candles", overlay = true)
 
