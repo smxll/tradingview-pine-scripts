@@ -1,5 +1,5 @@
 //@version=2
-//Created by Alexsmokeweed
+//Created by Phatcharaphon
 
 study(title = "Candles", overlay = true)
 
